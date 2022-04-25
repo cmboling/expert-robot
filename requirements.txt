@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+pytest-mock
+black
+boto3
+botocore
+pyyaml
+python-gnupg
+tarsafe
