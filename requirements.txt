@@ -4,6 +4,6 @@ pytest-mock
 black
 boto3
 botocore
-pyyaml==5.1b4
+pyyaml==6.0
 python-gnupg
 tarsafe
