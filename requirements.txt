@@ -6,3 +6,4 @@ boto3
 botocore
 pyyaml
 python-gnupg
+tarsafe
