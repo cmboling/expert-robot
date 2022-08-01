@@ -7,5 +7,5 @@ botocore
 pyyaml
 python-gnupg
 tarsafe
-django==2.1.0
+django==2.2.28
 lxml
